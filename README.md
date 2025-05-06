@@ -40,15 +40,14 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-nikam&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-
+<!--
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Nikam&show_icons=true&theme=radical&cache=0" />
 </p>
-
+-->
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Pranav-Nikam&theme=dark&hide_border=false" alt="Pranav's GitHub Streak" />
 </p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranav-Nikam/Pranav-Nikam/output/github-snake-dark.svg" />
